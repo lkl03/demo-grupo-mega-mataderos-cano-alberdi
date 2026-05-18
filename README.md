@@ -1,2 +1,7 @@
-# demo-grupo-mega-mataderos-cano-alberdi
-Demo web para Grupo Mega Mataderos - Cano Alberdi — diseñada por eterlab.
+# Grupo Mega Mataderos - Cano Alberdi
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
